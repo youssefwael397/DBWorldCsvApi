@@ -1,0 +1,6 @@
+@DBWorldCsvApi_HostAddress = http://localhost:5152
+
+GET {{DBWorldCsvApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
